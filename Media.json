@@ -1,0 +1,10 @@
+{
+  "community": [
+    {
+      "type": "video",
+      "title": "Mi Primer Video",
+      "url": "https://github.com/motta1981/MnagoMiel/raw/refs/heads/main/closed-tokyo-store.3840x2160.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/NOMBRE_DEL_VIDEO.mp4"
+    }
+  ]
+}
