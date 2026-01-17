@@ -4,25 +4,13 @@
       "type": "video",
       "title": "Mi Primer Video",
       "url": "https://github.com/motta1981/MnagoMiel/raw/refs/heads/main/closed-tokyo-store.3840x2160.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/motta1981/MnagoMiel/main/Media.json"
-    },
-    {
-      "type": "video",
-      "title": "GTA V Car",
-      "url": "https://github.com/motta1981/MnagoMiel/raw/refs/heads/main/parked-urban-sports-car-gta-v.1920x1080.mp4",
-      "thumbnail": "https://github.com/motta1981/MnagoMiel/raw/refs/heads/main/parked-urban-sports-car-gta-v.1920x1080.mp4"
+      "thumbnail": "https://raw.githubusercontent.com/motta1981/MnagoMiel/main/Media.json" 
     },
      {
       "type": "video",
       "title": "space-view-from-futuristic-room",
       "url": "https://github.com/motta1981/MnagoMiel/raw/refs/heads/main/space-view-from-futuristic-room-wallpaperwaves-com.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/motta1981/MnagoMiel/main/Media.json"
-     },
-      {
-      "type": "image",
-      "title": "Movies / Fallout 2026 series",
-      "url": "https://github.com/motta1981/MnagoMiel/blob/e5c76976b7e7de9ceed495ad966c548f6173ab3e/fallout-2026-series-3840x2160-24947.jpg",
-      "thumbnail": "https://github.com/motta1981/MnagoMiel/blob/e5c76976b7e7de9ceed495ad966c548f6173ab3e/fallout-2026-series-3840x2160-24947.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/motta1981/MnagoMiel/main/Media.json"   
       },
       {
       "type": "image",
@@ -155,6 +143,12 @@
       "title": "Its Been A Long Night - LoFi",
       "url": "https://ia600906.us.archive.org/32/items/its-been-a-long-night/It%27s%20Been%20A%20Long%20Night.mp4",
       "thumbnail": "https://ia600906.us.archive.org/32/items/its-been-a-long-night/It%27s%20Been%20A%20Long%20Night.mp4"
+      },
+      {
+      "type": "image",
+      "title": "Brooklyn Bridge Park",
+      "url": "https://archive.org/download/brooklyn-bridge-park-5k-or-1920x1080/brooklyn-bridge-park-5k-or-1920x1080.jpg",
+      "thumbnail": "https://archive.org/download/brooklyn-bridge-park-5k-or-1920x1080/brooklyn-bridge-park-5k-or-1920x1080.jpg"
         
      }
   ]
