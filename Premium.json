@@ -1,0 +1,10 @@
+{
+  "premium": [
+    {
+      "title": "Mi Video 1",
+      "url": "https://ENLACE-DIRECTO-A-TU-VIDEO.mp4",
+      "thumbnail": "https://ENLACE-A-MINIATURA.jpg",
+      "type": "video"
+    }
+  ]
+}
